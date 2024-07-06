@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Paweł Gajzler - Cotygodniowa dawka linków o programowaniu i AI'
+theme = 'anatole'
+[params]
+title = "Paweł Gajzler"
+author = "Paweł Gajzler"
+description = "Cotygodniowa dawka linków o programowaniu i AI"
+profilePicture = "images/profile.jpg"
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://de.linkedin.com/"
